@@ -40,8 +40,3 @@ The software follows a layered architecture to ensure modularity and ease of int
 
 
 
-## License
-(TODO: Provide information about the licensing of the project.)
-
-## Acknowledgments
-Special thanks to Valeo Egypt for mentoring this project and to everyone involved in its development.
