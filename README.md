@@ -38,14 +38,7 @@ The software follows a layered architecture to ensure modularity and ease of int
 - **Device Drivers**: Low-level code that interacts directly with the hardware components (sensors and controllers).
 - **Libraries (LIB)**: Shared utilities and functions used across different layers.
 
-## Setup and Installation
-(TODO: Add instructions for setting up the system, including flashing the customized Yocto Linux image onto the Raspberry Pi, configuring the ESP32 and STM32F401 controllers, and calibrating the sensors.)
 
-## Usage
-(TODO: Provide guidelines on how to run the software, interact with the system, and perform tests on the different features using the prototypes developed.)
-
-## Contributions
-(TODO: Add guidelines for contributing to the project, including coding standards, branching strategies, and how to submit pull requests.)
 
 ## License
 (TODO: Provide information about the licensing of the project.)
